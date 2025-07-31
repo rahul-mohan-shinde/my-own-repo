@@ -12,26 +12,26 @@
 | 8       | 0613724110   | Master in Computer Application | Vidya Pratishthan Institute of Information Technology, Baramati, Pune          |     89   |
 | 9       | 0613824111T  | Master in Computer Application | Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering, Wagholi, Pune |  85   |
 | 10      | 0613824110   | Master in Computer Application | Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering, Wagholi, Pune |  82   |
-| 11      | 0615824111T  | Master in Computer Application | Rajmata Jijau Shikshan Prasarak Mandal's Institute of Computer and Management Research, Dudulgaon, Pune | |
-| 12      | 0615824110   | Master in Computer Application | Rajmata Jijau Shikshan Prasarak Mandal's Institute of Computer and Management Research, Dudulgaon, Pune | |
-| 13      | 0616824111T  | Master in Computer Application | Shikshan Maharshi Dr. D.Y. Patil Centre for Management & Research, Chikhali, Pune |     |
-| 14      | 0616824110   | Master in Computer Application | Shikshan Maharshi Dr. D.Y. Patil Centre for Management & Research, Chikhali, Pune |     |
-| 15      | 0617024111T  | Master in Computer Application | Abhinav Education Society's Institute of Management and Research, Haveli, Pune  |        |
-| 16      | 0617024110   | Master in Computer Application | Abhinav Education Society's Institute of Management and Research, Haveli, Pune  |        |
-| 17      | 0620124111T  | Master in Computer Application | Dr. D. Y. Patil School of MCA, Lohegaon, Pune                                   |        |
-| 18      | 0620124110   | Master in Computer Application | Dr. D. Y. Patil School of MCA, Lohegaon, Pune                                   |        |
-| 19      | 0620424111T  | Master in Computer Application | Siddhant Institute Of Computer Application, Sudumbre                           |        |
-| 20      | 0620424110   | Master in Computer Application | Siddhant Institute Of Computer Application, Sudumbre                           |        |
-| 21      | 0663224111T  | Master in Computer Application | Navsahyadri Education Society's Group of Institutions                           |        |
-| 22      | 0663224110   | Master in Computer Application | Navsahyadri Education Society's Group of Institutions                           |        |
-| 23      | 0663424111T  | Master in Computer Application | KJEI's Trinity Academy of Engineering, Yewalewadi, Pune                         |        |
-| 24      | 0663424110   | Master in Computer Application | KJEI's Trinity Academy of Engineering, Yewalewadi, Pune                         |        |
-| 25      | 0677524111T  | Master in Computer Application | Yashaswi Education Society's International Institute of Management Science, Chinchwad, Pune | |
-| 26      | 0677524110   | Master in Computer Application | Yashaswi Education Society's International Institute of Management Science, Chinchwad, Pune | |
-| 27      | 0679424111T  | Master in Computer Application | Anantrao Pawar College of Engineering & Research, Pune                          |        |
-| 28      | 0679424110   | Master in Computer Application | Anantrao Pawar College of Engineering & Research, Pune                          |        |
-| 29      | 0699224111T  | Master in Computer Application | Pune Cambridge Institute of Management and Computer Application, Ambegaon Pathar, Pune |  |
-| 30      | 0699224110   | Master in Computer Application | Pune Cambridge Institute of Management and Computer Application, Ambegaon Pathar, Pune |  |
+| 11      | 0615824111T  | Master in Computer Application | Rajmata Jijau Shikshan Prasarak Mandal's Institute of Computer and Management Research, Dudulgaon, Pune | 60 |
+| 12      | 0615824110   | Master in Computer Application | Rajmata Jijau Shikshan Prasarak Mandal's Institute of Computer and Management Research, Dudulgaon, Pune | 64 |
+| 13      | 0616824111T  | Master in Computer Application | Shikshan Maharshi Dr. D.Y. Patil Centre for Management & Research, Chikhali, Pune | 94    |
+| 14      | 0616824110   | Master in Computer Application | Shikshan Maharshi Dr. D.Y. Patil Centre for Management & Research, Chikhali, Pune |   78  |
+| 15      | 0617024111T  | Master in Computer Application | Abhinav Education Society's Institute of Management and Research, Haveli, Pune  |    90    |
+| 16      | 0617024110   | Master in Computer Application | Abhinav Education Society's Institute of Management and Research, Haveli, Pune  |     80   |
+| 17      | 0620124111T  | Master in Computer Application | Dr. D. Y. Patil School of MCA, Lohegaon, Pune                                   |      91  |
+| 18      | 0620124110   | Master in Computer Application | Dr. D. Y. Patil School of MCA, Lohegaon, Pune                                   |     87   |
+| 19      | 0620424111T  | Master in Computer Application | Siddhant Institute Of Computer Application, Sudumbre                           |   90     |
+| 20      | 0620424110   | Master in Computer Application | Siddhant Institute Of Computer Application, Sudumbre                           | 60       |
+| 21      | 0663224111T  | Master in Computer Application | Navsahyadri Education Society's Group of Institutions                           |     80   |
+| 22      | 0663224110   | Master in Computer Application | Navsahyadri Education Society's Group of Institutions                           |     60   |
+| 23      | 0663424111T  | Master in Computer Application | KJEI's Trinity Academy of Engineering, Yewalewadi, Pune                         |      91  |
+| 24      | 0663424110   | Master in Computer Application | KJEI's Trinity Academy of Engineering, Yewalewadi, Pune                         |      74  |
+| 25      | 0677524111T  | Master in Computer Application | Yashaswi Education Society's International Institute of Management Science, Chinchwad, Pune |80 |
+| 26      | 0677524110   | Master in Computer Application | Yashaswi Education Society's International Institute of Management Science, Chinchwad, Pune |71 |
+| 27      | 0679424111T  | Master in Computer Application | Anantrao Pawar College of Engineering & Research, Pune                          |       85 |
+| 28      | 0679424110   | Master in Computer Application | Anantrao Pawar College of Engineering & Research, Pune                          |     71   |
+| 29      | 0699224111T  | Master in Computer Application | Pune Cambridge Institute of Management and Computer Application, Ambegaon Pathar, Pune | 82 |
+| 30      | 0699224110   | Master in Computer Application | Pune Cambridge Institute of Management and Computer Application, Ambegaon Pathar, Pune | 71 |
 
 ---
 
