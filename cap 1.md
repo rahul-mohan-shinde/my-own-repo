@@ -2,16 +2,16 @@
 
 | Pref No | Choice Code  | Course Name                    | Institute Name                                                                 | Cutoff |
 |---------|--------------|--------------------------------|---------------------------------------------------------------------------------|--------|
-| 1       | 0617924111T  | Master in Computer Application | Indira College of Engineering & Management, Pune                                |        |
-| 2       | 0617924110   | Master in Computer Application | Indira College of Engineering & Management, Pune                                |        |
-| 3       | 0697324111T  | Master in Computer Application | ASMS Institute of Business Management and Research MCA, Pune                    |        |
-| 4       | 0697324110   | Master in Computer Application | ASMS Institute of Business Management and Research MCA, Pune                    |        |
-| 5       | 0699124111T  | Master in Computer Application | Dr. D.Y. Patil Technical Campus, Varale, Talegaon, Pune                         |        |
-| 6       | 0699124110   | Master in Computer Application | Dr. D.Y. Patil Technical Campus, Varale, Talegaon, Pune                         |        |
-| 7       | 0613724111T  | Master in Computer Application | Vidya Pratishthan Institute of Information Technology, Baramati, Pune          |        |
-| 8       | 0613724110   | Master in Computer Application | Vidya Pratishthan Institute of Information Technology, Baramati, Pune          |        |
-| 9       | 0613824111T  | Master in Computer Application | Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering, Wagholi, Pune |     |
-| 10      | 0613824110   | Master in Computer Application | Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering, Wagholi, Pune |     |
+| 1       | 0617924111T  | Master in Computer Application | Indira College of Engineering & Management, Pune                                |     97   |
+| 2       | 0617924110   | Master in Computer Application | Indira College of Engineering & Management, Pune                                |   97     |
+| 3       | 0697324111T  | Master in Computer Application | ASMS Institute of Business Management and Research MCA, Pune                    |    83    |
+| 4       | 0697324110   | Master in Computer Application | ASMS Institute of Business Management and Research MCA, Pune                    |    80   |
+| 5       | 0699124111T  | Master in Computer Application | Dr. D.Y. Patil Technical Campus, Varale, Talegaon, Pune                         |   83    |
+| 6       | 0699124110   | Master in Computer Application | Dr. D.Y. Patil Technical Campus, Varale, Talegaon, Pune                         |      77  |
+| 7       | 0613724111T  | Master in Computer Application | Vidya Pratishthan Institute of Information Technology, Baramati, Pune          |     94   |
+| 8       | 0613724110   | Master in Computer Application | Vidya Pratishthan Institute of Information Technology, Baramati, Pune          |     89   |
+| 9       | 0613824111T  | Master in Computer Application | Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering, Wagholi, Pune |  85   |
+| 10      | 0613824110   | Master in Computer Application | Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering, Wagholi, Pune |  82   |
 | 11      | 0615824111T  | Master in Computer Application | Rajmata Jijau Shikshan Prasarak Mandal's Institute of Computer and Management Research, Dudulgaon, Pune | |
 | 12      | 0615824110   | Master in Computer Application | Rajmata Jijau Shikshan Prasarak Mandal's Institute of Computer and Management Research, Dudulgaon, Pune | |
 | 13      | 0616824111T  | Master in Computer Application | Shikshan Maharshi Dr. D.Y. Patil Centre for Management & Research, Chikhali, Pune |     |
